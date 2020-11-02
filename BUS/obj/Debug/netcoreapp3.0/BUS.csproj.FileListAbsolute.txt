@@ -1,0 +1,20 @@
+C:\Users\admin\Desktop\bus\bin\Debug\netcoreapp3.0\BUS.deps.json
+C:\Users\admin\Desktop\bus\bin\Debug\netcoreapp3.0\BUS.runtimeconfig.json
+C:\Users\admin\Desktop\bus\bin\Debug\netcoreapp3.0\BUS.runtimeconfig.dev.json
+C:\Users\admin\Desktop\bus\bin\Debug\netcoreapp3.0\BUS.dll
+C:\Users\admin\Desktop\bus\bin\Debug\netcoreapp3.0\BUS.pdb
+C:\Users\admin\Desktop\bus\obj\Debug\netcoreapp3.0\BUS.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\bus\obj\Debug\netcoreapp3.0\BUS.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\bus\obj\Debug\netcoreapp3.0\BUS.AssemblyInfo.cs
+C:\Users\admin\Desktop\bus\obj\Debug\netcoreapp3.0\BUS.dll
+C:\Users\admin\Desktop\bus\obj\Debug\netcoreapp3.0\BUS.pdb
+C:\Users\admin\Desktop\New folder\BUS\bin\Debug\netcoreapp3.0\BUS.deps.json
+C:\Users\admin\Desktop\New folder\BUS\bin\Debug\netcoreapp3.0\BUS.runtimeconfig.json
+C:\Users\admin\Desktop\New folder\BUS\bin\Debug\netcoreapp3.0\BUS.runtimeconfig.dev.json
+C:\Users\admin\Desktop\New folder\BUS\bin\Debug\netcoreapp3.0\BUS.dll
+C:\Users\admin\Desktop\New folder\BUS\bin\Debug\netcoreapp3.0\BUS.pdb
+C:\Users\admin\Desktop\New folder\BUS\obj\Debug\netcoreapp3.0\BUS.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\BUS\obj\Debug\netcoreapp3.0\BUS.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\New folder\BUS\obj\Debug\netcoreapp3.0\BUS.AssemblyInfo.cs
+C:\Users\admin\Desktop\New folder\BUS\obj\Debug\netcoreapp3.0\BUS.dll
+C:\Users\admin\Desktop\New folder\BUS\obj\Debug\netcoreapp3.0\BUS.pdb
