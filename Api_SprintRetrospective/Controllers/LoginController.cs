@@ -9,7 +9,7 @@ using Newtonsoft.Json.Linq;
 
 namespace Api_SprintRetrospective.Controllers
 {
-    public class LoginController : Controller
+    public class LoginController : BaseController
     {
         private readonly IUserService _UserService;
         private readonly ITokenService _TokenService;
@@ -19,7 +19,8 @@ namespace Api_SprintRetrospective.Controllers
             _TokenService = tokenService;
         }
         [Route("api/login")]
-        public IActionResult Login(JObject login)
+        [HttpPost]
+        public IActionResult Login([FromBody] JObject login)
         {
             var error = new ErrorObject(Error.SUCCESS);
             try
@@ -34,6 +35,7 @@ namespace Api_SprintRetrospective.Controllers
                 if (result.Code == Error.SUCCESS.Code)
                 {
                     var token = _TokenService.CreateToken(result.GetData<User>());
+                    _User = result.GetData<User>();
                     return Ok(error.SetData(token));
                 }
                 else

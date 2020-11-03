@@ -8,5 +8,8 @@ namespace BUS.Interface
     public interface IBoardService
     {
         List<Board> GetAllBoard();
+        List<Board> GetBoardByUser(int id);
+        List<BoardDetail> GetBoardDetailByBoardId(int boardId);
+
     }
 }

@@ -8,5 +8,7 @@ namespace BUS.Interface
     public interface IUserService
     {
         ErrorObject Login(string Username, string Password);
+        ErrorObject Register(User user);
+        User GetInforUserById(int Id);
     }
 }

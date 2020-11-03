@@ -18,3 +18,24 @@ C:\Users\admin\Desktop\New folder\BUS\obj\Debug\netcoreapp3.0\BUS.AssemblyInfoIn
 C:\Users\admin\Desktop\New folder\BUS\obj\Debug\netcoreapp3.0\BUS.AssemblyInfo.cs
 C:\Users\admin\Desktop\New folder\BUS\obj\Debug\netcoreapp3.0\BUS.dll
 C:\Users\admin\Desktop\New folder\BUS\obj\Debug\netcoreapp3.0\BUS.pdb
+C:\Users\Admin\Desktop\DAGK_API-main\DAGK_API-main\BUS\bin\Debug\netcoreapp3.0\BUS.deps.json
+C:\Users\Admin\Desktop\DAGK_API-main\DAGK_API-main\BUS\bin\Debug\netcoreapp3.0\BUS.runtimeconfig.json
+C:\Users\Admin\Desktop\DAGK_API-main\DAGK_API-main\BUS\bin\Debug\netcoreapp3.0\BUS.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DAGK_API-main\DAGK_API-main\BUS\bin\Debug\netcoreapp3.0\BUS.dll
+C:\Users\Admin\Desktop\DAGK_API-main\DAGK_API-main\BUS\bin\Debug\netcoreapp3.0\BUS.pdb
+C:\Users\Admin\Desktop\DAGK_API-main\DAGK_API-main\BUS\obj\Debug\netcoreapp3.0\BUS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DAGK_API-main\DAGK_API-main\BUS\obj\Debug\netcoreapp3.0\BUS.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DAGK_API-main\DAGK_API-main\BUS\obj\Debug\netcoreapp3.0\BUS.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DAGK_API-main\DAGK_API-main\BUS\obj\Debug\netcoreapp3.0\BUS.dll
+C:\Users\Admin\Desktop\DAGK_API-main\DAGK_API-main\BUS\obj\Debug\netcoreapp3.0\BUS.pdb
+C:\Users\Admin\Desktop\DAGK_API-main\DAGK_API-main\BUS\obj\Debug\netcoreapp3.0\BUS.genruntimeconfig.cache
+C:\Users\admin\Desktop\DAGK_API\BUS\bin\Debug\netcoreapp3.0\BUS.deps.json
+C:\Users\admin\Desktop\DAGK_API\BUS\bin\Debug\netcoreapp3.0\BUS.runtimeconfig.json
+C:\Users\admin\Desktop\DAGK_API\BUS\bin\Debug\netcoreapp3.0\BUS.runtimeconfig.dev.json
+C:\Users\admin\Desktop\DAGK_API\BUS\bin\Debug\netcoreapp3.0\BUS.dll
+C:\Users\admin\Desktop\DAGK_API\BUS\bin\Debug\netcoreapp3.0\BUS.pdb
+C:\Users\admin\Desktop\DAGK_API\BUS\obj\Debug\netcoreapp3.0\BUS.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\DAGK_API\BUS\obj\Debug\netcoreapp3.0\BUS.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\DAGK_API\BUS\obj\Debug\netcoreapp3.0\BUS.AssemblyInfo.cs
+C:\Users\admin\Desktop\DAGK_API\BUS\obj\Debug\netcoreapp3.0\BUS.dll
+C:\Users\admin\Desktop\DAGK_API\BUS\obj\Debug\netcoreapp3.0\BUS.pdb

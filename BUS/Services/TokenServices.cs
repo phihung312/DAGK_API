@@ -14,8 +14,8 @@ namespace BUS.Services
     public class TokenServices : ITokenService
     {
         private IConfiguration _Configuration;
-        static string _Token;
-        static Dictionary<string, User> _RefreshToken;
+        public static string _Token;
+        public static Dictionary<string, User> _RefreshToken = new Dictionary<string, User>();
         public TokenServices(IConfiguration configuration)
         {
             _Configuration = configuration;
@@ -46,7 +46,7 @@ namespace BUS.Services
                     RefreshToken = Guid.NewGuid().ToString(),
                     Exprire = exp
                 };
-                _RefreshToken.Add(tokenResult.RefreshToken,user);
+                _RefreshToken.Add(tokenResult.RefreshToken.ToString(),user);
                 _Token = bearerToken;
                 //var cacheKey = _CacheService.CreateCacheKey(CacheKeyName.RefreshToken, tokenResult.RefreshToken);
                 //_CacheService.Set(cacheKey, user);
